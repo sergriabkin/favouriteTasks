@@ -1,0 +1,7 @@
+The main logic is inside LogParser class.
+Package with logs named "logs" - it`s our data source. 
+
+Todo: 
+1) To make this app analyze complicated queries like in SQL.
+2) Refactor existing code to use regexp, instead of string arrays.
+3) Queries filter with dates (from date1 to date2).
